@@ -3,10 +3,10 @@ The largest online loan marketplace company wants to understand the driver varia
 Data for all the issued loans from 2007 to 2011 is shared for this company. Objective is to analyze this data set using EDA to identify these driver variables.
 
 ## Table of Contents
-General Info
-Conclusions
-Technologies Used
-Acknowledgements
+- General Info
+- Conclusions
+- Technologies Used
+- Acknowledgements
 
 ## General Information
 - This is a case study assignment part of a course. 
